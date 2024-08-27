@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "private": true,
     "type": "module",
-    "homepage": "https://github.com/Niraphan/resumeBook.github.io",
+    "homepage": "https://niraphan.github.io/resumeBook.github.io",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
