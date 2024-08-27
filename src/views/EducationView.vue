@@ -19,7 +19,7 @@
         </div>
         <div class="timeline-end timeline-box"><p class="text-2xl">High school</p>
             <p class="">Chonburi Sukkhabot school(gifted)</p>
-            <img src="../asset/Logo/skb.jpeg" alt="skb" class="h-[25vh] w-[25vh]">
+            <img src="/Logo/skb.jpeg" alt="skb" class="h-[25vh] w-[25vh]">
         </div>
         <hr />
       </li>
@@ -40,7 +40,7 @@
         </div>
         <div class="timeline-start timeline-box"><p class="text-2xl">Bachelor’s degree</p>
             <p class="">King Mongkut's University of Technology Thonburi(SIT IT)</p>
-            <img src="../asset/Logo/KMUTT.png" alt="KMUTT" class="h-[25vh] w-[25vh]">
+            <img src="/Logo/KMUTT.png" alt="KMUTT" class="h-[25vh] w-[25vh]">
          </div>
       </li>
 

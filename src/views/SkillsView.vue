@@ -46,19 +46,19 @@
                     </p>
                     <div class="grid grid-cols-2 text-md ml-[2vh] pt-[2vh]">
                         <div class="flex ">
-                            <img src="../asset/icon/check.png" alt="check" class="w-[2vh] h-[2vh]  mr-[1vh] self-center">
+                            <img src="/icon/check.png" alt="check" class="w-[2vh] h-[2vh]  mr-[1vh] self-center">
                             <p>Recognize core skills and knowledge needed to become a cybersecurity analyst</p>
                         </div>
                         <div class="flex ">
-                            <img src="../asset/icon/check.png" alt="check" class="w-[2vh] h-2vh mr-[1vh] self-center">
+                            <img src="/icon/check.png" alt="check" class="w-[2vh] h-2vh mr-[1vh] self-center">
                             <p>Identify how security attacks impact business operations</p>
                         </div>
                         <div class="flex ">
-                            <img src="../asset/icon/check.png" alt="check" class="w-[2vh] h-2vh mr-[1vh] self-center">
+                            <img src="/icon/check.png" alt="check" class="w-[2vh] h-2vh mr-[1vh] self-center">
                             <p>Explain security ethics</p>
                         </div>
                         <div class="flex ">
-                            <img src="../asset/icon/check.png" alt="check" class="w-[2vh] h-2vh mr-[1vh] self-center">
+                            <img src="/icon/check.png" alt="check" class="w-[2vh] h-2vh mr-[1vh] self-center">
                             <p>Identify common tools used by cybersecurity analysts</p>
                         </div>
                         <a href="/FoundationCyber.pdf" download="FoundationCyber.pdf"
