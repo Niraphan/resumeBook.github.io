@@ -2,7 +2,7 @@
 
 <template>
     <div class="flex">
-        <img src="../asset/Me.JPG" alt="myPicture" class="rounded-xl ml-[10vh] h-[50vh] mt-[5vh] shadow-xl" />
+        <img src="/Me.JPG?url" alt="myPicture" class="rounded-xl ml-[10vh] h-[50vh] mt-[5vh] shadow-xl" />
         <div class="mx-[10vh] ">
             <h1 class="text-blue-800 text-6xl mb-[2vh] ">Niraphan Duagchairakkasem</h1>
             <h1 class=" text-gray-400 opacity-80 text-5xl mb-[4vh]">Cybersecurity</h1>
