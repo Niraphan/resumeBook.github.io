@@ -61,7 +61,7 @@
                             <img src="/icon/check.png" alt="check" class="w-[2vh] h-2vh mr-[1vh] self-center">
                             <p>Identify common tools used by cybersecurity analysts</p>
                         </div>
-                        <a href="/FoundationCyber.pdf" download="FoundationCyber.pdf"
+                        <a href="/resumeBook.github.io/FoundationCyber.pdf" download="FoundationCyber.pdf"
                             class="btn  w-[30vh] h-[5vh] transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 text-white py-2 px-4 rounded">
                             Download Certificate
                         </a>
