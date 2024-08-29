@@ -20,7 +20,7 @@ const opacity = computed(() => Math.min(Math.max( + distance.value / 300, 0.7),1
 </script>
 
 <template>
-    <div class=" roboto-regular w-screen h-screen bg-gradient-to-b from-blue-900 to-purple-900 text-white relative overflow-hidden">
+    <div class=" roboto-regular w-screen h-fit bg-gradient-to-b from-blue-900 to-purple-900 text-white relative ">
         <div class="absolute bg-purple-700/30 rounded-full -translate-x-1/2 -translate-y-1/2 pointer-events-none blur-2xl " :class="`${opacity}`" :style="{
             left: `${x}px`,
             top: `${y}px`,
