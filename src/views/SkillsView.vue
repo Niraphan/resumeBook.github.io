@@ -8,9 +8,9 @@ const skillStore = useSkillStore()
 </script>
 
 <template>
-    <div class="scroll-auto">
+    <div>
         <div class="text-center text-5xl ">Skills and Certificates</div>
-        <div class="grid grid-cols-2 gap-8  py-[3vh] mx-[5vh] ">
+        <div class="grid grid-cols-2 gap-8  pt-[3vh] mx-[5vh] ">
             <div class=" border p-[3vh]">
                 <div v-for="skill in skillStore.skills" :key="skill.id"
                     class=" border border-slate-500 h-auto w-full mb-[3vh] p-[3vh] ">
